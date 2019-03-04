@@ -1,6 +1,8 @@
 # House-Recording
 Demonstration of a simple application based on hyperledger fabric to record purchases and sales of houses.
 
+This example was created for the `Basics of Grid and Cloud Computing` course.
+
 ## Before the start
 Before starting the project, make sure that you have all the required dependencies. You can find them [here](https://hyperledger-fabric.readthedocs.io/en/release-1.4/prereqs.html).
 
