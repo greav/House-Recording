@@ -12,8 +12,8 @@ The network has the following structure
 
 ![Network structure](demo/network_structure.png)
 
-Each organization has 2 peers. The `peer0` is responsible for updating the state of the legear using the `createHouseTransaction` smart contract method. 
-The peer1 reads the state of the Ledger using the `queryAllHouses` method. Also, `peer1` can obtain information about a specific transaction using the `queryHouse` method.
+Each organization has 2 peers. The `peer0` is responsible for updating the state of the ledger using the `createHouseTransaction` smart contract method. 
+The peer1 reads the state of the ledger using the `queryAllHouses` method. Also, `peer1` can obtain information about a specific transaction using the `queryHouse` method.
 
 ## Demo
 
