@@ -3,7 +3,7 @@ Demonstration of a simple application based on hyperledger fabric to record purc
 
 This example was created for the `Basics of Grid and Cloud Computing` course.
 
-You can find more detailed information in the [presentation] (https://docs.google.com/presentation/d/1AB_-mCfORa8xObqt-_W4U8IVMZvg8V53LNSvqjOXeSM/edit?usp=sharing)
+You can find more detailed information in the [presentation](https://docs.google.com/presentation/d/1AB_-mCfORa8xObqt-_W4U8IVMZvg8V53LNSvqjOXeSM/edit?usp=sharing)
 
 ## Before the start
 Before starting the project, make sure that you have all the required dependencies. You can find them [here](https://hyperledger-fabric.readthedocs.io/en/release-1.4/prereqs.html).
